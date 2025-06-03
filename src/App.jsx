@@ -1,9 +1,4 @@
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  BrowserRouter,
-} from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import PageLayout from "./components/PageLayout";
 import ProductBrief from "./pages/productbrief";
 import AffiliateDisclosure from "./pages/affiliate-disclosure";
