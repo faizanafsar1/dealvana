@@ -8,7 +8,7 @@ import PrivacyPolicy from "./pages/privacy-policy";
 import TermsAndConditions from "./pages/terms-conditions";
 import Categories from "./pages/categories";
 import Products from "./pages/products/Index";
-import Home from "./pages/home";
+import Home from "./pages/home/Index";
 
 function App() {
   return (
