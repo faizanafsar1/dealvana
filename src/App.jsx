@@ -4,9 +4,7 @@ import {
   Route,
   BrowserRouter,
 } from "react-router-dom";
-import Home from "./pages/home";
 import PageLayout from "./components/PageLayout";
-import Products from "./pages/products";
 import ProductBrief from "./pages/productbrief";
 import AffiliateDisclosure from "./pages/affiliate-disclosure";
 import AboutUs from "./pages/about";
@@ -14,6 +12,8 @@ import ContactUs from "./pages/contactus";
 import PrivacyPolicy from "./pages/privacy-policy";
 import TermsAndConditions from "./pages/terms-conditions";
 import Categories from "./pages/categories";
+import Products from "./pages/products/Index";
+import Home from "./pages/home";
 
 function App() {
   return (
